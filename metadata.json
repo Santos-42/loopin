@@ -1,0 +1,6 @@
+{
+  "name": "Loopin",
+  "description": "AI-Powered Hobby Matchmaking Platform for connecting through shared hobbies, skill levels, and vibe compatibilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
